@@ -1,5 +1,5 @@
 {
-    "name": "casbin/lumen-authz",
+    "name": "weijer/lumen-authz",
     "keywords": ["laravel","casbin", "permission", "access-control", "authorization", "rbac", "acl", "abac", "authz"],
     "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel. ",
     "authors": [
